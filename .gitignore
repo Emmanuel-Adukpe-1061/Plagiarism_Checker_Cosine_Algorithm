@@ -1,5 +1,5 @@
 .env
 nltk_data
 venv
+venv_
 nltk_data/*
-
