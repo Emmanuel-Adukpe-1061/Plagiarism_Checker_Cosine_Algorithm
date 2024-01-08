@@ -61,6 +61,6 @@ Include screenshots of the Plagiarism Checker in action. Add the image links in 
     <td>Plagiarism Checker</td>
   </tr>
   <tr>
-    <td><img src="screenshot.jpg"></td>
+    <td><img src="screenshot.jpg?v=2"></td>
   </tr>
 </table>
